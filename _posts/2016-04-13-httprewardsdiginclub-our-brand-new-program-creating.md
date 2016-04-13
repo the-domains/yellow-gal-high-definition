@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'http://rewards.digin.club/ - our brand new program creating a promotional vehicle for retailers while donating to causes and giving cash back to consumers.'
-datePublished: '2016-04-13T18:34:50.743Z'
-dateModified: '2016-04-13T18:34:29.059Z'
+datePublished: '2016-04-13T18:36:12.806Z'
+dateModified: '2016-04-13T18:35:00.164Z'
 title: ''
 author: []
 authors: []
